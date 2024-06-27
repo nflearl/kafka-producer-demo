@@ -1,5 +1,5 @@
 {
-  "doc": "Sample schema to help you get started.",
+  "doc": "Sample schema to get started.",
   "fields": [
     {
       "doc": "The string is an UUID",
@@ -8,7 +8,7 @@
       "type": "string"
     }
   ],
-  "name": "ZZEarlTest",
+  "name": "ZZEarl",
   "namespace": "edu.wgu",
   "type": "record"
 }
