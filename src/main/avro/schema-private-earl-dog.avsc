@@ -1,0 +1,18 @@
+{
+  "doc": "Sample schema to get started.",
+  "fields": [
+    {
+      "doc": "Critter name.",
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "doc": "Number of books in stock",
+      "name": "age",
+      "type": "int"
+    }
+  ],
+  "name": "Dog",
+  "namespace": "edu.wgu",
+  "type": "record"
+}
